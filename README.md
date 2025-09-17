@@ -53,7 +53,7 @@ Worked on **web-based applications** as part of training, gaining practical expo
 **Interpreting Doctor Notes Using Handwriting Recognition**
 
 * Designed a web-based system to digitize handwritten doctor notes.
-* Used **Tesseract OCR, OpenCV, and Python Flask** for preprocessing and recognition.
+* Used **Tesseract OCR, OpenCV, and Python Flask** for preprocessing and recognition using CNN and RNN model.
 * Implemented real-time recognition, multi-language support, and secure storage.
 
 **End-to-End Image Processing & OCR on AWS EKS with CI/CD**
